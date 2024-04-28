@@ -24,4 +24,8 @@ public:
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "PlayerRefs")
 	AMainCharacter* player1;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category= "Money")
+	float currentMoney;
+	
 };

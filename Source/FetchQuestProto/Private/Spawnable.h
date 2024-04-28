@@ -25,7 +25,6 @@ public:
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category= "Stats")
 	float Value;
-
 	
 
 };
